@@ -5,13 +5,13 @@
 Olá, meu nome é Matheus, estudante finalizando o curso de Análise e Desenvolvimento de Sistemas.<br><br>Neste portfólio, compartilho meus projetos e experiências focados em análise de dados (alguns com machine learning) usando Python.<br>
 
 
-Principais áreas de atuação:
+Principais áreas de conhecimento:
 
 - **Análise de dados:** Utilizo técnicas de exploração e visualização de dados para extrair insights valiosos e identificar padrões relevantes. Trabalho com bibliotecas populares, como Pandas, NumPy, Plotly e Matplotlib, para processar, limpar e visualizar os dados.
 
 - **Machine Learning:** Desenvolvo modelos de machine learning para resolver problemas de classificação, regressão e agrupamento. Utilizo algoritmos como árvores de decisão, regressão logística, SVM e redes neurais, implementando-os com bibliotecas como Scikit-learn.
 
-- **Desenvolvimento de projetos:** Tenho experiência em desenvolvimento de projetos de ponta a ponta, desde a coleta e preparação de dados até a implementação e implantação de modelos de machine learning em ambientes como o [streamlit](https://streamlit.io/).
+- **Desenvolvimento de projetos:** Tenho experiência em desenvolvimento de projetos, desde a coleta e preparação de dados até a implementação e implantação de modelos de machine learning em ambientes como o [streamlit](https://streamlit.io/).
 
 
 Alguns dos projetos destacados neste portfólio incluem:
