@@ -53,7 +53,7 @@ Imagine que você tem uma empresa de cursos online e gostaria de saber como est�
 
 ### 🔗 [Olist Data Analysis](https://github.com/math3usvalenca/olist-data-analysis)
 
-Nesse projeto, foi realizado uma análise exploratória de um e-commerce de uma grande empresa brasileira, a Olist. Durante as análises foi possível identificar as regiões que mais contribuíam para receita da empresa, os horários de pico dos pedidos, tempo médio  de entrega em dias para diferentes regiões e demais informações que ajudaram a entender a performance da empresa.
+Nesse projeto, foi realizado uma análise exploratória de um e-commerce de uma grande empresa brasileira, a Olist. Durante as análises foi possível identificar as regiões que mais contribuíam para receita da empresa, os horários de pico dos pedidos, tempo médio  de entrega em dias para diferentes regiões e demais informações que ajudaram a entender a performance da empresa. Além disso, também realizei uma análise do valor do cliente (customer value) para identificar e segmentar grupos de clientes com padrões específicos para aplicar métodos de marketing específicos, dessa forma, contribuindo efetivamente para o time de vendas e marketing.
 
 ### 🔗 [Análise de desgaste de funcionário](https://github.com/math3usvalenca/EDA---customer-attrition-analysis)
 
