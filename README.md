@@ -4,20 +4,25 @@
 
 **Olá, meu nome é Matheus, sou Técnólogo em Análise e Desenvolvimento de Sistemas pelo IFPB.<br><br> Aqui eu compartilho meus projetos e experiências focados em análise  e ciência de dados usando Python com o objetivo de demonstrar minhas habilidades de resolver desafios de negócios.**<br>
 
+*Como profissional, eu priorizo a qualidade das soluções com dados. Viso a praticidade na solução dos problemas de negócio, mas sempre com muito embasamento, relacionando cada métrica e cada análise de acordo com o contexto do problema a ser resolvido.*
+
 Principais áreas de conhecimento:
 
 - **Análise de dados:** Utilizo técnicas de exploração e visualização de dados para extrair insights valiosos e identificar padrões relevantes. Trabalho com bibliotecas populares, como Pandas, NumPy, Plotly e Matplotlib, para processar, limpar e visualizar os dados, assim como a ferramenta **Power BI** para soluções mais robustas e dinâmicas que atendam às necessidades de negócio.
 
 - **Machine Learning:** Desenvolvo modelos de machine learning para resolver problemas de previsão de vendas, classificação, identificação churn de clientes, regressão e agrupamento.
 
-- **Desenvolvimento de projetos:** Tenho experiência em desenvolvimento de projetos, desde o entendimento do negócio, passnado  pela coleta e preparação de dados e chegando até a implantação de modelos de machine learning em aplicações web.
+- **Desenvolvimento** - Também possuo conhecimento em desenvolvimento de aplicações web. Habilidades em React JS, Typescript e tecnologias backend como Node.js e NestJS, que pode ser conferido em minha conta secundária:https://github.com/Matheus351
 
-- **Data Visualization** - Power BI, Python
+- **Desenvolvimento de projetos:** Tenho experiência em desenvolvimento de projetos, desde o entendimento do negócio, passando  pela coleta e preparação de dados e chegando até a implantação de modelos de machine learning em aplicações web.
+
+- **Ferramentas Analíticas** - SQL, Power BI, Python
   
-- **Data collection and processing** - SQL, Python Web Scraping
+- **Banco de Dados** - Postgres, MongoDB 
   
 - **Development** - Git, Scrum, Linux
 
+- **Machine Learning** - Classification, Regression, Clustering, Time Series
 Estou sempre buscando aprender e aprimorar minhas habilidades com dados. Estou pronto para compartilhar meu conhecimento e trabalhar em grandes desafios na área.
 
 # 💻 Ferramentas utilizadas:
@@ -43,6 +48,11 @@ O modelo final apresentou um acurácia de **77%** e um recall de **92%** (que pa
 Desenvolvi um modelo de previsão de vendas para prever o lucro ou prejuízo provável em um período de 6 meses para 1.115 lojas Rossmann, fornecendo aos líderes de vendas a perspectiva certa para agir. O modelo funciona em forma de API, e pode-se realizar previsões para uma única loja ou para várias, auxiliando, por exemplo, na tarefa de separar budget para cada loja.
 
 O modelo final apresentou um erro que correspondia em média a **10%** do valor real, ou seja, uma previsão errada estaria errada por apenas 10% do valor real em média, e de acordo com o modelo de negócio, foi uma métrica consideravelmente boa. 
+
+### 🔗 [Identificação de cliente de alto valor](https://github.com/math3usvalenca/high-value-customer-identification)
+
+Este projeto utiliza-se de um conjunto de dados com transações reais de um varejo não registrado sediado no Reino Unido. O objetivo foi ajudar o time de marketing a lançar um programa de fidelidade para os melhores clientes da base. Para isso, reliazei uma clusterização com diferentes tipos de algoritmos e diferentes técnicas de redução de dimensionalidade como PCA e UMAP. Foram definidos 8 clusters, um deles para participar do programa de fidelidade e outros clusters importantes que apresentaram clientes parecidos com o principal com clientes em churn. Com estes resultados em mãos, certamente o time de marketing poderá tomar as decisões certas e precisas para aumentar o faturamento da empresa.
+
  
 ## Data Analysis Projects
 
